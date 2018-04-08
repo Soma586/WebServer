@@ -1,0 +1,3883 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+<meta http-equiv="Content-Type" content="text/html;" />
+<meta name="google-translate-customization" content="150c9644cda5aab7-96385692cabadd25-g6285bf04891a6dc2-10"></meta>
+
+<meta name="ROBOTS" content="NOARCHIVE">
+<meta name="ROBOTS" content="NOCACHE">
+<meta name="keywords" content="Bronx Community College, Bronx, Community, College, Community College, CUNY, 718.289.5100, 5100, 718.289.5895, 5895 " />
+<meta name="description" content="Since 1959, Bronx Community College of the City University of New York has been building on its vision to graduate students who are prepared to live within, profit from, and contribute to a 21st century global environment marked by diversity, change, and expanded opportunities for learning and growth.">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.5, user-scalable=yes" />
+<title>Bronx Community College</title>
+
+	<link href="https://www.bcc.cuny.edu/wBCC.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.bcc.cuny.edu/wBCC1.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.bcc.cuny.edu/SpryAssets/SpryMenuBarHorizontal-TOP_QUICK_LINKS.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.bcc.cuny.edu/SpryAssets/SpryMenuBarHorizontal-TOP_MENU.css" rel="stylesheet" type="text/css" />
+
+
+
+	
+	<script type="text/javascript" src="https://www.bcc.cuny.edu/jQuery/jquery-1.4.4.js"></script>
+<script>
+$(document).ready(function(e) {
+	$('#mobileMenu-icon').click(function(){
+		if ($('.LEFTNAV-SecondaryTertiary').hasClass("hide-menu")){
+			// show menu
+			$('.LEFTNAV-SecondaryTertiary').slideDown({queue: false});
+			$('.LEFTNAV-SecondaryTertiary').animate({opacity: 1}, {queue: false});
+			$('.LEFTNAV-SecondaryTertiary').removeClass('hide-menu');
+			$('.LEFTNAV-SecondaryTertiary').addClass('show-menu');
+		}
+		else{
+			// hide menu
+			$('.LEFTNAV-SecondaryTertiary').slideUp({queue: false});
+			$('.LEFTNAV-SecondaryTertiary').animate({opacity: 0},{queue: false})
+			$('.LEFTNAV-SecondaryTertiary').removeClass('show-menu');
+			$('.LEFTNAV-SecondaryTertiary').addClass('hide-menu');
+		}
+	})
+});
+</script>
+
+
+
+
+
+<link rel="shortcut icon" href="https://www.bcc.cuny.edu/favicon.ico">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+
+
+
+
+
+<link rel="stylesheet" href="https://www.bcc.cuny.edu/jQuery/coin-slider-styles.css" type="text/css" />
+<script type="text/javascript" src="https://www.bcc.cuny.edu/jQuery/jquery-1.4.4.js"></script>
+<script type="text/javascript" src="https://www.bcc.cuny.edu/jQuery/coin-slider.js"></script>
+
+
+
+
+
+
+<script type="text/javascript" src="https://www.bcc.cuny.edu/SYSTEM_SERVICE/js/swfobject.js"></script>
+
+	
+	<link rel="stylesheet" href="https://www.bcc.cuny.edu/jQuery/jscrollpane/styles/jScrollPane.css" type="text/css">
+	<script src="https://www.bcc.cuny.edu/jQuery/jscrollpane/scripts/jScrollPane.js" type="text/javascript"></script>
+	<script src="https://www.bcc.cuny.edu/jQuery/jscrollpane/scripts/jquery.mousewheel.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		$(function()
+		{
+			$('#events-scroll').jScrollPane({showArrows:false});
+		});
+	</script>
+
+
+
+
+
+
+
+
+
+
+
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+<script>
+// Increase z-index for Google DIV element
+setInterval(function(){
+	if ($('.gsc-results-wrapper-overlay').css('z-index') < '110000'){
+		$('.gsc-results-wrapper-overlay').css('z-index','9432199');
+	}
+})
+</script>
+
+</head>
+<body>
+<!-- Top Bar -->
+
+
+
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20752866-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+<div id="top-line">
+
+	<div id="wrap-top" class="site-width">
+		<div id="logo-bar" class="site-width">
+	
+			<!-- BCC Logo -->
+			<div id="BCC-Logo" style="float:left; width:210px;">
+			<a href="http://www.bcc.cuny.edu"><img src="/gif-new/images-HomePage/BCC_Logo_GREEN.gif" alt="Bronx Community College logo" width="165" border="0" style="margin:0px 10px 0px 10px;" /></a>
+			</div>
+	
+			<!-- Quick Links and Search Box -->
+			<div id="quick_link_Search_container">
+	
+				<!-- Top Quick Links -->
+				<div id="quick_links_container1">
+					<div style="float: right;">
+					
+                    
+
+<style type="text/css">
+#container1_links{
+    display: block;
+    margin: 0;
+    padding: 0em 0.4em;
+    padding-bottom: 1px;    
+    border-right: 1px solid #d8d8d8;
+    cursor: pointer;
+    font-size: 8.5pt;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    text-decoration: none;
+    background-color: white;
+    color: #666;
+}
+#container1_links a:focus,
+#container1_links a:hover{
+    border-bottom: 2px solid #66AF95;
+	color:#000;
+}
+</style>
+
+
+
+
+	<script type="text/javascript">
+	function skip_to_block(){
+
+		// Scroll to id = body_content_col2
+		$('html,body').animate({
+        	scrollTop: $("#body_content_col2").offset().top},
+        	'slow');
+		$("#cs-buttons-coin-slider a:first").focus();
+	}
+	</script>
+
+
+	<script type="text/javascript">
+		$(document).ready(function(e) {
+			$('#container1_links').css('display','block');
+		})
+	</script>
+
+
+
+<div id="container1_links" style="display:none; color:#666;">
+	<a onclick="skip_to_block()" onkeypress="skip_to_block()" tabindex="0">Skip to Content</a>
+</div>
+
+
+
+
+
+
+
+
+
+
+					</div>
+				</div>
+				<!-- Search, Info Bar -->
+				<div id="quick_links_container2">
+					<!-- Request Infomation button --->
+               <div style="float: right; display:block;">
+					<a href="https://cunybcc.askadmissions.net/emtinterestpage.aspx?ip=student" target="new">
+               <img src="/gif-new/Buttons/request-info2.jpg" height="28" width="196" style="margin-top:3px; margin-left:5px;" alt="Request Information" />
+               </a>
+					</div>
+					<!-- Google Search Box --><div style="float: right;">
+					
+
+
+<style type="text/css">
+.googleSearch{
+	/*border:1px red solid;*/
+	width: 236px;
+	padding:0px;
+	margin:0px;
+}
+.gsc-control-cse{
+	padding:0px !important;
+}
+.gsc-input{
+	padding-right:0px !important;
+	font-size:13px !important;
+}
+.gsc-input-box{
+	width:200px !important;
+	border-color: gray !important;
+}
+/* Fix new Google Search Box as of 3/7/2017 */
+
+/* hide "Powered by Google" *
+.gsc-branding{
+	display:none;
+}
+*/
+
+/*hide Clear Results button *
+.gsc-clear-button{
+	display:none;
+}
+*/
+
+/*move search box and button vertically *
+#Search_Box{
+	padding-top: 4px;
+}
+*/
+
+/* style input box *
+.gsc-input #gsc-i-id1{
+    padding: 5px;
+}
+*/
+
+/*style button*
+.gsc-search-button{
+    width: 30px;
+    height: 27px;
+    margin-left: 8px;
+    border: 1px solid #656565;
+    color: transparent;
+*/
+}
+
+
+</style>
+
+<!--[if lte IE 7]>
+<style type="text/css"> 
+input.gsc-search-button-v2{
+	height: 13px !important;
+	width: 13px !important;
+	padding: 12.5px 4px !important;
+	padding-bottom:0px !important;
+	min-width: 13px !important;
+	margin-top: 0px !important;
+	Xbackground-image: url('https://www.bcc.cuny.edu/gif-new/images-HomePage/Search_Button.png') !important;
+	background-repeat: no-repeat;
+	background-size:28px !important;
+	border-radius: 0px !important;
+	-moz-border-radius: 0px !important;
+	-webkit-border-radius: 0px !important;
+	
+	-ms-background-size:image;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.bcc.cuny.edu/gif-new/images-HomePage/Search_Button.png',sizingMethod='image') !important;
+	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.bcc.cuny.edu/gif-new/images-HomePage/Search_Button.png',sizingMethod='image')";
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#666666',EndColorStr='#666666') !important;
+	border:1px solid #666666 !important;
+}
+</style> 
+<![endif]-->
+
+
+<!--[if !IE| gt IE 7]> <!-- -->
+<style type="text/css">
+input.gsc-search-button-v2{
+	height: 0 !important;
+	width: 0 !important;
+	padding: 12.7px 4px !important;
+	min-width: 20px !important;
+	margin-top: 3px !important;
+	background-image: url('https://www.bcc.cuny.edu/gif-new/images-HomePage/Search_Button.png') !important;
+	background-repeat: no-repeat;
+	background-size:28px !important;
+	border: 1px solid #666666;
+	border-radius: 0px !important;
+	-moz-border-radius: 0px !important;
+	-webkit-border-radius: 0px !important;
+}
+</style>
+<![endif]-->
+
+
+
+<table id="searchTable" width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation">
+	<tr>
+	<td align="right">
+		
+		<div id="Search_Box">        
+			<div class="googleSearch">
+<script>
+
+var imgAltTagsFix = function() {
+    $('img.gsc-branding-img').attr("alt", "Search button");
+    $('input.gsc-search-button').attr('alt', "Search Button");
+    $('#google_translate_element .goog-te-combo').attr("title", "Select Language");
+  };
+  window.__gcse = {
+    callback: imgAltTagsFix
+  };
+
+  (function() {
+    var cx = '014763224918106918002:aubojbevyas';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+</div>
+	  </div>
+	
+	</td>
+	</tr>
+</table>
+<style type="text/css">
+.gsc-branding-img{
+	display:none;
+}
+</style>
+
+
+
+					</div>
+				</div>
+
+				<!-- Bottom Quick Links -->
+				<div id="quick_links_container3">
+					<div style="float: right;">
+					
+	<table cellpadding="0" cellspacing="0" border="0" role="presentation">
+    <tr><td class="background-white">
+		<ul id="MenuBar2" class="MenuBarHorizontal2">
+			
+            <!-- Weather temperature indicator temporarily deactivated -->
+			
+            
+
+            
+            <li><a href="/Information-Technology/?p=IT-SSAM">Bronco ID</a></li>
+            <li><a href="http://www.bcc.cuny.edu/blackboard/">Blackboard Info</a></li>
+            <li><a href="/Title-IX/" title="Title IX">Sexual Respect</a></li>
+            
+            <li class="hideobj"><a href="http://www.bcc.cuny.edu/email/">BCC Email</a></li>
+            
+            <li><a href="https://www.bcc.cuny.edu/College-Calendar/">Calendar</a></li>
+            <li class="hideobj"><a href="http://www.bcc.cuny.edu/OSSES">OSSES</a></li>
+            <li class="hideobj"><a href="http://www.bcc.cuny.edu/CUNYfirst/">CUNYfirst</a></li>
+            <li class="hideobj"><a href="/CUNYPortal/">CUNY Portal</a></li>
+            <li class="hideobj"><a href="http://www.bcc.cuny.edu/blackboard/">Blackboard</a></li>
+            
+            <li><a href="http://www.bcc.cuny.edu/Telephone-Directory/">Directory</a></li>
+            <li><a href="/directions/?m=map">Campus Map</a></li>
+            <li><a id="lastQuickLinkItem" href="http://www.bcc.cuny.edu/Index/" aria-label="a-to-z-index">A-Z Index</a></li>
+           	<!cfinclude template="/SYSTEM_SERVICE/include-BootStrapHTTPS.htm">
+
+<style type="text/css">
+select#login{
+	display: block;
+    cursor: pointer;
+    background-color: white !important;
+    /* padding: 0.2em 0.4em; */
+    padding: 0em 0.4em;
+    margin: -1px 0px;
+    /* color: #52595C; */
+    /*color: #989898;*/
+	color:#666;
+    text-decoration: none;
+	border:0px;
+	font-size:8.5pt;
+	margin-top:-2px;
+}
+select#login:hover,
+select#login:focus
+{
+	/*background-color: #ddd;*/
+	background-color:transparent;
+	border-bottom:2px solid #66AF95;
+	color: #000;
+	margin-top:-2px;
+	padding-bottom:0px;
+
+}
+select#login option{
+	padding-top:3px !important;
+}
+#MenuBar2 .hideobj{
+	display:none;
+}
+/* ------------------------- */
+.s-hidden {
+    visibility:hidden;
+    padding-right:10px;
+}
+.select {
+    cursor:pointer;
+    display:inline-block;
+		display:block;
+    position:relative;
+    	Xfont:normal 11px/22px Arial, Sans-Serif;
+    	font-family: Helvetica, Arial, sans-serif;
+    color:black;
+    border:1px solid #ccc;
+		border:1px solid red;
+		border:0px;
+	    padding-bottom: 3px;
+}
+.styledSelect {
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    background-color:white !important;
+    padding:0 30px;
+    	Xfont-weight:bold;
+	    /*color: #989898;*/
+		color:#666;
+		height:14px !important;
+		display:block;
+		padding-bottom:1px;
+}
+@-moz-document url-prefix() {
+    .styledSelect {
+		padding-bottom:2.5px;
+    }
+	#login{
+		margin-bottom:1px !important;
+	}
+
+}
+
+.styledSelect:after {
+    content:"";
+    width:0;
+    height:0;
+		height:1px;
+    border:5px solid transparent;
+    border-color:black transparent transparent transparent;
+    position:absolute;
+    top:9px;
+    right:6px;
+		top: 5px;
+		Xmargin-top: 5px;
+}
+.styledSelect:active, .styledSelect.active {
+    background-color:#eee;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.styledSelect:hover{
+		background-color:transparent;
+		border-bottom:2px solid #66AF95;
+		color: #000;
+}
+
+.options {
+    display:none;
+    position:absolute;
+    top:100%;
+    right:0;
+	left:inherit !important;
+    z-index:999;
+    margin:0 0;
+    padding:0 0;
+    list-style:none;
+    border:1px solid #ccc;
+    background-color:white;
+    -webkit-box-shadow:0 1px 2px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow:0 1px 2px rgba(0, 0, 0, 0.2);
+    box-shadow:0 1px 2px rgba(0, 0, 0, 0.2);
+		margin-top:1px !important;
+}
+.options li {
+    padding:0 6px;
+    margin:0 0;
+    padding:0 10px;
+	padding:4px 0 !important;
+		border-right:0px !important;
+		width:95% !important;
+		text-align:right !important;
+		padding-right:5% !important;
+}
+.options li:hover {
+    /*background-color:#39f;
+    background-color:#66af95;*/
+	background-color:#f6cf46 !important;
+    color:white;
+}
+.options{
+	border:0px !important;
+		Xwidth:7.1em !important;
+		width:inherit !important;
+		margin-top:2px !important;
+}
+/*
+#login{
+	max-height:16px;
+}
+*/
+</style>
+
+<script>
+
+function BCClogin(LoginLocation){
+	//alert(LoginLocation);
+	LoginLocation = Number(LoginLocation);
+	LoginURL = 'http://www.bcc.cuny.edu/';
+	switch (LoginLocation){
+		case 1:
+		// BCC Email
+		LoginURL = 'http://www.bcc.cuny.edu/email/';
+		break;
+		
+		case 2:
+		// OSSES
+		LoginURL = 'http://www.bcc.cuny.edu/OSSES/';
+		break;
+		
+		case 3:
+		// CUNYfirst
+		LoginURL = 'http://www.bcc.cuny.edu/CUNYfirst/';
+		break;
+		
+		case 4:
+		// CUNYportal
+		LoginURL = '/CUNYPortal';
+		break;
+		
+		case 5:
+		// Blackboard
+		//LoginURL = 'http://www.bcc.cuny.edu/blackboard/';
+		LoginURL = 'https://bbhosted.cuny.edu/webapps/login/noportal';
+		break;
+		
+		case 6:
+		// DegreeWorks
+		LoginURL = 'https://degreeworks.cuny.edu/';
+		break;
+
+		case 7:
+		// BCC One Path
+		LoginURL = 'https://bronco.sso.bcc.cuny.edu/';
+		break;
+
+		case 8:
+		// BCC One Path
+		LoginURL = 'https://bcc.starfishsolutions.com/starfish-ops/';
+		break;
+
+		default:
+		// BCC Website
+		LoginURL = 'http://www.bcc.cuny.edu/';
+		break;
+	}
+	//resetLoginSelectElement();
+	location.assign(LoginURL);
+	
+	return;
+}
+
+//jQuery(document).ready(function($) {
+document.onreadystatechange = function(e) {
+	if (document.readyState === "interactive") {
+		// Iterate over each select element
+		//$('#login').each(function() {
+		//$('#quick_links_container2').css('background-color','red');
+		//alert('begin');
+		$('.loginDropdown').each(function() {
+			// Cache the number of options
+			var $this = $(this),
+				numberOfOptions = $(this).children('option').length;
+		
+			// Hides the select element
+			$this.addClass('s-hidden');
+		
+			// Wrap the select element in a div
+			$this.wrap('<div class="select"></div>');
+		
+			// Insert a styled div to sit over the top of the hidden select element
+			$this.after('<div class="styledSelect" tabindex="0" aria-haspopup="true" aria-expanded="false"></div>');
+		
+			// Cache the styled div
+			var $styledSelect = $this.next('div.styledSelect');
+		
+			// Show the first select option in the styled div
+			$styledSelect.text($this.children('option').eq(0).text());
+		
+			// Insert an unordered list after the styled div and also cache the list
+			var $list = $('<ul />', {
+				'class': 'options'
+				,'aria-label': 'login menu'
+				//,'tabindex': '0'
+			}).insertAfter($styledSelect);
+		
+			// Insert a list item into the unordered list for each select option
+			for (var i = 0; i < numberOfOptions; i++) {
+				$('<li />', {
+					text: $this.children('option').eq(i).text(),
+					rel: $this.children('option').eq(i).val(),
+					tabindex: '0'
+				}).appendTo($list);
+			}
+		
+			// Cache the list items
+			var $listItems = $list.children('li');
+		
+			// Show the unordered list when the styled div is clicked (also hides it if the div is clicked again)
+			//$('.styledSelect').on('click', function (e) {
+			$('.styledSelect').click(function (e) {
+				e.stopPropagation();
+				// Added by Sammy
+				var x = $('.options').css('display');
+				if (x == 'block'){
+					hideList();
+				}else
+				{
+					// End by Sammy
+					$('div.styledSelect.active').each(function () {
+						$(this).removeClass('active').next('ul.options').hide();
+					});
+					$(this).toggleClass('active').next('ul.options').toggle();
+				}
+			});
+			
+			$('.styledSelect').keydown(function (e) {
+				// traverse dropdown list if it is visible
+				if ($('#loginLI div ul').is(':visible')) {
+					// Code
+					/*
+					if ( $('#loginLI div ul li').is(':last-child') ){
+						alert('last child');
+						}
+					*/
+					$('#loginLI div ul').next('li').focus();
+					
+					/*
+					background-color:#f6cf46 !important;
+					color:white;
+					*/
+	
+				} else
+					{
+						if (e.type == "keydown"){
+							//console.log(e.keyCode); --- Sammy used this for testing keyboard
+							e.stopPropagation();
+							// Added by Sammy
+							var x = $('.options').css('display');
+							if (x == 'block'){
+								hideList();
+							}else
+							{
+								// End by Sammy
+								$('div.styledSelect.active').each(function () {
+									$(this).removeClass('active').next('ul.options').hide();
+								});
+								$(this).toggleClass('active').next('ul.options').toggle();
+							}
+						}
+					}
+				// hmm
+			});
+
+			// Add id to element
+			$('div.styledSelect').attr('id','selectLoginFirst');
+		
+			// Hides the unordered list when a list item is clicked and updates the styled div to show the selected list item
+			// Updates the select element to have the value of the equivalent option
+			$listItems.click(function (e) {
+				e.stopPropagation();
+				//$styledSelect.text($(this).text()).removeClass('active');
+				$this.val($(this).attr('rel'));
+				$list.hide();
+				/* alert($this.val()); // Uncomment this for demonstration! */
+				BCClogin($this.val());
+			});
+
+			$listItems.keypress(function (e) {
+				if (e.keyCode == 13){	// Enter key 
+					e.stopPropagation();
+					//$styledSelect.text($(this).text()).removeClass('active');
+					$this.val($(this).attr('rel'));
+					$list.hide();
+					/* alert($this.val()); // Uncomment this for demonstration! */
+					BCClogin($this.val());
+					$('#loginLI div .options li').focus();
+				}
+			});
+		
+		
+			// Hides the unordered list
+			function hideList(){
+				$styledSelect.removeClass('active');
+				$list.hide();
+			}
+			// Hides the unordered list when clicking outside of it
+			$(document).click(function () {
+				/* Hided by Sammy
+				 $styledSelect.removeClass('active');
+				 $list.hide();
+				 */
+				// Added by Sammy
+				hideList();
+			});
+			
+		})
+		function resetLoginSelectElement(){
+			$styledSelect.text('Login');
+			//document.getElementById('login').selectedIndex = 0;
+		}
+		/*
+		if($('#loginLI ul li').focus()){
+			console.log('Login focused');
+		}
+        */
+		setTimeout(
+			function(){
+				$('#loginLI ul li').focus(function(e) {
+            		console.log('Login focused');
+		        })
+			}, 1000);
+
+		/*
+		setTimeout(
+			function(){
+				$('#loginLI ul li').focusout(function(e) {
+            		console.log('Login lost focused');
+		        })
+			}, 1000);
+
+		*/
+		/*
+		$('#loginLI ul li').focusout(function(e) {
+            console.log('Login lost focus');
+        });
+		*/
+		/*
+		if( $('#loginLI ul li').focus() ){ console.log('yes'); }
+		*/
+		
+	}
+};
+
+</script>
+<style type="text/css">
+#login option:hover{
+	background-color: 00794f;
+}
+/*
+select option:checked:after {
+    content: attr(title);
+    background: #666;
+    color: #fff;
+}
+*/
+</style>
+
+<li id="loginLI">
+	
+    <select id="login" name="login" class="loginDropdown" onchange="BCClogin(this.value)" aria-labelledby="login" title="Login">
+      <option value="Login" disabled="disabled" selected="selected">LOGIN</option>
+      <option value="1">BCC Email</option>
+      
+      <option value="5">Blackboard</option>
+      <option value="3">CUNYfirst</option>
+      <option value="4">CUNYportal</option>
+      <option value="6">DegreeWorks</option>
+      <option value="2">OSSES</option>
+      <option value="8">Starfish</option>
+    </select> 
+    
+
+</li>
+
+
+
+<style type="text/css">
+.options li[rel~="login"] {
+	display:none;
+}
+</style>
+
+
+           	
+		</ul>
+	</td></tr></table>
+
+
+<script>
+$(function() {
+	// Tabbed out of the Login Dropdown at top
+	$('#lastQuickLinkItem').focus(function(e) {
+		console.log('Remove .active from #selectLoginFirst');
+		$('#selectLoginFirst').removeClass('active');
+		//console.log('Update aria-expanded to false');
+		$('#selectLoginFirst').attr('aria-expanded','false');
+		//console.log('Update display:block to display:none');
+		$('#loginLI ul').css('display','none');
+    });
+	
+	// Tabbed out of the Login Dropdown at bottom
+	$('#menuItem_1').focus(function(e) {
+		//console.log('Remove .active from #selectLoginFirst');
+		$('#selectLoginFirst').removeClass('active');
+		//console.log('Update aria-expanded to false');
+		$('#selectLoginFirst').attr('aria-expanded','false');
+		//console.log('Update display:block to display:none');
+		$('#loginLI ul').css('display','none');
+    });
+	
+	// Login Dropdown is visible
+	$('#selectLoginFirst').focusout(function(e) {
+		if ($('#loginLI ul').css('display') == 'block'){
+			//console.log('hmm');
+			$('#selectLoginFirst').attr('aria-expanded','true');
+		}
+    });
+
+	
+
+});
+
+</script>
+					</div>
+				</div>
+				
+			</div>
+			
+			<!-- News Alert : Display only on home page -->
+			
+
+
+
+
+<script src="https://www.bcc.cuny.edu/SERVICES/TabSlideOut/jquery.tabSlideOut.v1.3.js"></script>
+
+    <script type="text/javascript">
+    $(function(){
+        $('.slide-out-div').tabSlideOut({
+            tabHandle: '.handle',                     //class of the element that will become your tab
+            pathToTabImage: '/gif-new/images-HomePage/News-Alert.png', //path to the image for the tab //Optionally can be set using css
+            imageHeight: '30px',                     //height of tab image           //Optionally can be set using css
+            imageWidth: '104px',                       //width of tab image            //Optionally can be set using css
+            tabLocation: 'left',                      //side of screen where tab lives, top, right, bottom, or left
+            speed: 350,                               //speed of animation
+            action: 'click',                          //options: 'click' or 'hover', action to trigger animation
+            topPos: '0px',                          //position from the top/ use if tabLocation is left or right
+            leftPos: '20px',                          //position from left/ use if tabLocation is bottom or top
+            fixedPosition: true                      //options: true makes it stick(fixed position) on scroll
+        });
+
+    });
+
+    </script>
+
+
+<style type="text/css">
+
+.slide-out-div {
+	 padding: 20px;
+	 width: 240px;
+	 background: #fff;
+	 border: 2px solid #8c0000;
+	 z-index:999999;
+}    
+.slide-out-div p{
+	font-family:Helvetica, Arial, sans-serif;
+	font-size: 10pt !important;
+	line-height: 1.3em !important;
+}
+.slide-out-div div{
+	font-family:Helvetica, Arial, sans-serif;
+	font-size: 10pt !important;
+	line-height: 1.3em !important;
+}
+</style>
+
+
+
+
+	
+	  </div>
+	</div>
+</div>
+
+
+
+<!-- Top Menu -->
+
+<link href="/SYSTEM_SERVICE/Web_Accessible_Menu/2/css/menubarLinks.css" type="text/css" rel="stylesheet" />
+
+
+<div id="menu-line">
+	<div id="menu-top" class="browser-width">
+		<div id="menu-bar" class="site-width" Xstyle="background-color:#54AC91;">
+            
+            
+				<!-- Show Top Menu -->
+				<UL role="menubar" id="menubarBCC" aria-label="Bronx Community College Main Menu">
+					
+						<!-- top main menu item -->
+						
+						<li role="none" class="has-drop">
+							
+							
+                            
+							<a role="menuitem" id="menuItem_1" aria-haspopupX="false" aria-posinset="1" tabindex="0" href="http://www.bcc.cuny.edu/Admissions" aria-label="Admissions"
+							
+								
+								 class="MenuBarItemSubmenu"
+							>Admissions</a>
+							
+							
+                            <ul role="menu" id="droplet_1" class="droplet "> 
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID3" aria-haspopup="false" href="https://cunybcc.askadmissions.net/emtinterestpage.aspx?ip=student">Request Information</a>
+												
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID4" aria-haspopup="false" href="/r/?p=apply-online">Apply Online</a>
+												
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID5" aria-haspopup="false" href="/Admissions/?p=Contact-Information">Contact Information</a>
+												
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID6" aria-haspopup="false" href="http://www.bcc.cuny.edu/Admissions/?p=Freshman">Freshman</a>
+												
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID7" aria-haspopup="false" href="/InternationalStudents/">International Student</a>
+												
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID8" aria-haspopup="false" href="http://www.bcc.cuny.edu/Admissions/?p=Non-Degree-Student">Non-Degree Student</a>
+												
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID9" aria-haspopup="false" href="http://www.bcc.cuny.edu/Admissions/?p=Testing-Placement-Exams">Testing and Placement Exams</a>
+												
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID10" aria-haspopup="false" href="http://www.bcc.cuny.edu/Admissions/?p=Tours-Visits">Tours and Visits</a>
+												
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID11" aria-haspopup="false" href="http://www.bcc.cuny.edu/Admissions/?p=Transfer">Transfer</a>
+												
+											
+										</li>
+
+										
+									
+								
+								
+							</ul>
+						
+						</li>
+					
+						<!-- top main menu item -->
+						
+						<li role="none" class="has-drop">
+							
+							
+                            
+							<a role="menuitem" id="menuItem_2" aria-haspopupX="true" aria-posinset="2" tabindex="0" href="http://www.bcc.cuny.edu/Finances" aria-label="Finances"
+							
+								
+								 class="MenuBarItemSubmenu"
+							>Finances</a>
+							
+							
+                            <ul role="menu" id="droplet_2" class="droplet "> 
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID13" aria-haspopup="false" href="http://www.finaid.ucsb.edu/fafsasimplification/index.html">7 Easy Steps to file a FAFSA</a>
+												
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID14" aria-haspopup="false" href="http://www.bcc.cuny.edu/Financial-Aid/">Financial Aid</a>
+													
+													<ul role="menu"> 
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/Financial-Aid/?p=fa-Learn-about-Financial-Aid">Learn about Financial Aid</a>
+																
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/Financial-Aid/?p=fa-Need-Money-for-College">Need Money for College</a>
+																
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/Financial-Aid/?p=fa-After-you-Apply">After you Apply</a>
+																
+															
+													</li>
+                                                    
+													</ul> 
+											
+										</li>
+
+										
+											<div role="presentation" class="dropdownSpacer"> </div>
+											
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID15" aria-haspopup="false" href="/Scholarship">Scholarships</a>
+												
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID16" aria-haspopup="false" href="http://www.bcc.cuny.edu/Student-Financial-Services/">Student Financial Services</a>
+													
+													<ul role="menu"> 
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/Student-Financial-Services/?p=College-Expenses">College Expenses</a>
+																
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/Student-Financial-Services/?p=Payment-Options">Payment Options</a>
+																
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/Student-Financial-Services/?p=Tuition-and-Fees">Tuition and Fees</a>
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/Student-Financial-Services/?p=Tuition-Bill-Due-Dates">Tuition Bill Due Dates</a>
+																
+															
+													</li>
+                                                    
+													</ul> 
+											
+										</li>
+
+										
+											<div role="presentation" class="dropdownSpacer"> </div>
+											
+									
+								
+								
+							</ul>
+						
+						</li>
+					
+						<!-- top main menu item -->
+						
+						<li role="none" class="has-drop">
+							
+							
+                            
+							<a role="menuitem" id="menuItem_3" aria-haspopupX="true" aria-posinset="3" tabindex="0" href="http://www.bcc.cuny.edu/Academics" aria-label="Academics"
+							
+								
+								 class="MenuBarItemSubmenu"
+							>Academics</a>
+							
+							
+                            <ul role="menu" id="droplet_3" class="droplet "> 
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID18" aria-haspopup="false" href="http://www.bcc.cuny.edu/Degree-Programs/">Academic Degree Programs</a>
+													
+													<ul role="menu"> 
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="/Degree-Programs/?m=AAS">Associate in Applied Sciences Degrees (A.A.S.)</a>
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="/Degree-Programs/?m=AA">Associate in Arts Degrees (A.A.)</a>
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="/Degree-Programs/?m=AS">Associate in Science Degrees (A.S.)</a>
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="/Degree-Programs/?m=CERT">Certificate Programs</a>
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://cunyba.gc.cuny.edu/">CUNY Baccalaureate Program</a>
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/Pathways/">CUNY Pathways</a>
+																
+															
+													</li>
+                                                    
+													</ul> 
+											
+										</li>
+
+										
+											<div role="presentation" class="dropdownSpacer"> </div>
+											
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID19" aria-haspopup="false" href="http://www.bcc.cuny.edu/Academic-Departments/">Academic Departments</a>
+													
+													
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+												<a role="group" id="menuID20" aria-haspopup="false">Academic Resources</a>
+											<ul role="menu"> 
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="/registrar/?page=Academic_Calendars&px=1  ">Academic Calendar</a>
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="/Codification ">Academic Rules and Regulations </a>
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/College-Catalog/">College Catalog</a>
+																
+															
+													</li>
+                                                    
+													</ul> 
+											
+										</li>
+
+										
+											<div role="presentation" class="dropdownSpacer"> </div>
+											
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID21" aria-haspopup="false" href="/academic-support-services/">Academic Support Services</a>
+												<ul role="menu"> 
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="/AcademicAdvising">Academic Advising</a>
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="/TransferCounseling">Transfer Planning</a>
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/Tutoring-Services-and-Schedules/">Tutoring Services and Schedules</a>
+																
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/Writing-Center/">Writing Center</a>
+																
+															
+													</li>
+                                                    
+													</ul> 
+											
+										</li>
+
+										
+											<div role="presentation" class="dropdownSpacer"> </div>
+											
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID22" aria-haspopup="false" href="http://www.bcc.cuny.edu/Evening-Weekend-Services/">Evening and Weekend Services</a>
+													
+													<ul role="menu"> 
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/Evening-Weekend-Services/?p=Second-Saturdays">Second Saturdays @ BCC</a>
+																
+															
+													</li>
+                                                    
+													</ul> 
+											
+										</li>
+
+										
+											<div role="presentation" class="dropdownSpacer"> </div>
+											
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID23" aria-haspopup="false" href="/OnlineLearning">Online Learning</a>
+												
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+												<a role="group" id="menuID24" aria-haspopup="false">Pre-College Experience</a>
+											<ul role="menu"> 
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/College-Now/">College Now</a>
+																
+															
+													</li>
+                                                    
+													</ul> 
+											
+										</li>
+
+										
+											<div role="presentation" class="dropdownSpacer"> </div>
+											
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID25" aria-haspopup="false" href="/Registrar">Registrar's Office</a>
+												
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID26" aria-haspopup="false" href="/Admissions/?p=ad-Special-Academic-Success-Programs">Special Academic Success Programs</a>
+												<ul role="menu"> 
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/clip/">CLIP - CUNY Language Immersion Program</a>
+																
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="/College-Discovery">College Discovery</a>
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/CUE/">Coordinated Undergraduate Education</a>
+																
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/CUNY-Start/">CUNY Start</a>
+																
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/Deans-and-President-Lists/">Dean's and President's Lists</a>
+																
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="https://bcc-cuny.digication.com/honors/Welcome  ">Honors Programs</a>
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/math-start/">Math Start</a>
+																
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/WAC/">Writing Across the Curriculum</a>
+																
+															
+													</li>
+                                                    
+													</ul> 
+											
+										</li>
+
+										
+											<div role="presentation" class="dropdownSpacer"> </div>
+											
+									
+								
+								
+							</ul>
+						
+						</li>
+					
+						<!-- top main menu item -->
+						
+						<li role="none" class="has-drop">
+							
+							
+                            
+							<a role="menuitem" id="menuItem_4" aria-haspopupX="true" aria-posinset="4" tabindex="0" href="http://www.bcc.cuny.edu/Services" aria-label="Services"
+							
+								
+								 class="MenuBarItemSubmenu"
+							>Services</a>
+							
+							
+                            <ul role="menu" id="droplet_4" class="droplet "> 
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID28" aria-haspopup="false" href="/Academic-Computing/?p=ac-Computer-Labs">Academic Computer Labs</a>
+												
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID29" aria-haspopup="false" href="http://www.bcc.cuny.edu/academic-support-services">Academic Support Services</a>
+												
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID30" aria-haspopup="false" href="http://www.bcc.cuny.edu/Student-Life/?p=BCC-Shuttle-Bus">BCC Shuttle Bus</a>
+												
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID31" aria-haspopup="false" href="/Bookstore">Campus Bookstore</a>
+												
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID32" aria-haspopup="false" href="http://www.bcc.cuny.edu/Career-Development/">Career Development</a>
+													
+													
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+												<a role="group" id="menuID33" aria-haspopup="false">Counseling Services</a>
+											<ul role="menu"> 
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/Personal-Counseling/">Personal Counseling</a>
+																
+															
+													</li>
+                                                    
+													</ul> 
+											
+										</li>
+
+										
+											<div role="presentation" class="dropdownSpacer"> </div>
+											
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID34" aria-haspopup="false" href="http://www.bcc.cuny.edu/Disability-Services/">Disability Services</a>
+													
+													
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID35" aria-haspopup="false" href="https://www.bcc.cuny.edu/Early-Childhood-Center/">Early Childhood Center</a>
+												
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID36" aria-haspopup="false" href="http://www.bcc.cuny.edu/Enrollment-Services/">Enrollment Services</a>
+													
+													
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID37" aria-haspopup="false" href="http://www.bcc.cuny.edu/Public-Safety/">Public Safety</a>
+													
+													
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID38" aria-haspopup="false" href="http://www.bcc.cuny.edu/Single-Stop/">Single Stop</a>
+													
+													<ul role="menu"> 
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/Petrie-Student-Emergency-Funds/">Petrie Student Emergency Funds</a>
+																
+															
+													</li>
+                                                    
+													</ul> 
+											
+										</li>
+
+										
+											<div role="presentation" class="dropdownSpacer"> </div>
+											
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID39" aria-haspopup="false" href="/Information-Technology/?p=IT-Technology-Service-Center">Technology Service Center (formerly HelpDesk)</a>
+												
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID40" aria-haspopup="false" href="http://www.bcc.cuny.edu/Veteran-Affairs/">Veteran and Military Resources</a>
+													
+													
+											
+										</li>
+
+										
+									
+								
+								
+							</ul>
+						
+						</li>
+					
+						<!-- top main menu item -->
+						
+						<li role="none" class="has-drop">
+							
+							
+                            
+							<a role="menuitem" id="menuItem_5" aria-haspopupX="true" aria-posinset="5" tabindex="0" href="http://www.bcc.cuny.edu/Student-Life" aria-label="Student Life"
+							
+								
+								 class="MenuBarItemSubmenu"
+							>Student Life</a>
+							
+							
+                            <ul role="menu" id="droplet_5" class="droplet shiftDropDownLeft"> 
+										
+                                        <li role="none">	
+											
+											
+												<a role="group" id="menuID42" aria-haspopup="false">Get Involved</a>
+											<ul role="menu"> 
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/Student-Life/?p=Clubs-Organizations">Clubs and Organizations</a>
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/Student-Life/?p=Leadership-Development">Leadership Development</a>
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/Student-Life/?p=Student-Government">Student Government</a>
+															
+													</li>
+                                                    
+													</ul> 
+											
+										</li>
+
+										
+											<div role="presentation" class="dropdownSpacer"> </div>
+											
+										
+                                        <li role="none">	
+											
+											
+												<a role="group" id="menuID43" aria-haspopup="false">Support and Services</a>
+											<ul role="menu"> 
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/Student-Life/?p=Community-Outreach-and-Service-Learning">Community Outreach and Service Learning</a>
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/Health-Services/">Healthy Living</a>
+																
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/Student-Life/?p=New-Student-Orientation">New and Transfer Student Orientation</a>
+															
+													</li>
+                                                    
+													</ul> 
+											
+										</li>
+
+										
+											<div role="presentation" class="dropdownSpacer"> </div>
+											
+										
+                                        <li role="none">	
+											
+											
+												<a role="group" id="menuID44" aria-haspopup="false">Student Resources</a>
+											<ul role="menu"> 
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/Student-Life/?p=BCC-Shuttle-Bus">BCC Shuttle Bus</a>
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/Student-Life/?p=Campus-Posting-Policy">Campus Posting Policy</a>
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="/Public-Safety/?p=Parking-Information#3">Student Parking</a>
+															
+													</li>
+                                                    
+													
+													
+                                                    <li role="none">
+														
+																<a role="menuitem" href="http://www.bcc.cuny.edu/Title-IX-Students/">Title IX Resources for Students</a>
+																
+															
+													</li>
+                                                    
+													</ul> 
+											
+										</li>
+
+										
+											<div role="presentation" class="dropdownSpacer"> </div>
+											
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID45" aria-haspopup="false" href="http://www.bcc.cuny.edu/Student-Life/?p=Campus-Dining">Campus Dining</a>
+												
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID46" aria-haspopup="false" href="http://www.bcc.cuny.edu/Commencement/">Commencement 2017</a>
+													
+													
+											
+										</li>
+
+										
+										
+                                        <li role="none">	
+											
+											
+													<a role="menuitem" id="menuID47" aria-haspopup="false" href="http://www.bcc.cuny.edu/Student-Life/?p=Multicultural-Programs">Multicultural Programs</a>
+												
+											
+										</li>
+
+										
+									
+								
+								
+							</ul>
+						
+						</li>
+					
+						<!-- top main menu item -->
+						
+						<li role="none" class="has-drop">
+							
+							
+                            
+							<a role="menuitem" id="menuItem_6" aria-haspopupX="false" aria-posinset="6" tabindex="0" href="http://www.bronxbroncos.com/" aria-label="Athletics"
+							
+								
+								
+							>Athletics</a>
+							
+							
+						</li>
+					
+						<!-- top main menu item -->
+						
+						<li role="none" class="has-drop">
+							
+							
+                            
+							<a role="menuitem" id="menuItem_7" aria-haspopupX="false" aria-posinset="7" tabindex="0" href="http://bcc-libweb.bcc.cuny.edu" aria-label="Library"
+							
+								
+								
+							>Library</a>
+							
+							
+						</li>
+					
+						<!-- top main menu item -->
+						
+						<li role="none" class="has-drop">
+							
+							
+                            
+							<a role="menuitem" id="menuItem_8" aria-haspopupX="false" aria-posinset="8" tabindex="0" href="https://www.bcc.cuny.edu/Support-BCC" aria-label="Support BCC"
+							
+								
+								style="border-right:0px;" 
+							>Support BCC</a>
+							
+							
+						</li>
+					
+				</UL>
+			
+		</div>
+	</div>
+</div>
+
+
+
+<script type="text/javascript">
+	document.getElementById("menuID14").setAttribute("aria-haspopup", "true"); document.getElementById("menuID14").setAttribute("aria-haspopup", "true"); document.getElementById("menuID14").setAttribute("aria-haspopup", "true"); document.getElementById("menuID16").setAttribute("aria-haspopup", "true"); document.getElementById("menuID16").setAttribute("aria-haspopup", "true"); document.getElementById("menuID16").setAttribute("aria-haspopup", "true"); document.getElementById("menuID16").setAttribute("aria-haspopup", "true"); document.getElementById("menuID18").setAttribute("aria-haspopup", "true"); document.getElementById("menuID18").setAttribute("aria-haspopup", "true"); document.getElementById("menuID18").setAttribute("aria-haspopup", "true"); document.getElementById("menuID18").setAttribute("aria-haspopup", "true"); document.getElementById("menuID18").setAttribute("aria-haspopup", "true"); document.getElementById("menuID18").setAttribute("aria-haspopup", "true"); document.getElementById("menuID20").setAttribute("aria-haspopup", "true"); document.getElementById("menuID20").setAttribute("aria-haspopup", "true"); document.getElementById("menuID20").setAttribute("aria-haspopup", "true"); document.getElementById("menuID21").setAttribute("aria-haspopup", "true"); document.getElementById("menuID21").setAttribute("aria-haspopup", "true"); document.getElementById("menuID21").setAttribute("aria-haspopup", "true"); document.getElementById("menuID21").setAttribute("aria-haspopup", "true"); document.getElementById("menuID22").setAttribute("aria-haspopup", "true"); document.getElementById("menuID24").setAttribute("aria-haspopup", "true"); document.getElementById("menuID26").setAttribute("aria-haspopup", "true"); document.getElementById("menuID26").setAttribute("aria-haspopup", "true"); document.getElementById("menuID26").setAttribute("aria-haspopup", "true"); document.getElementById("menuID26").setAttribute("aria-haspopup", "true"); document.getElementById("menuID26").setAttribute("aria-haspopup", "true"); document.getElementById("menuID26").setAttribute("aria-haspopup", "true"); document.getElementById("menuID26").setAttribute("aria-haspopup", "true"); document.getElementById("menuID26").setAttribute("aria-haspopup", "true"); document.getElementById("menuID33").setAttribute("aria-haspopup", "true"); document.getElementById("menuID38").setAttribute("aria-haspopup", "true"); document.getElementById("menuID42").setAttribute("aria-haspopup", "true"); document.getElementById("menuID42").setAttribute("aria-haspopup", "true"); document.getElementById("menuID42").setAttribute("aria-haspopup", "true"); document.getElementById("menuID43").setAttribute("aria-haspopup", "true"); document.getElementById("menuID43").setAttribute("aria-haspopup", "true"); document.getElementById("menuID43").setAttribute("aria-haspopup", "true"); document.getElementById("menuID44").setAttribute("aria-haspopup", "true"); document.getElementById("menuID44").setAttribute("aria-haspopup", "true"); document.getElementById("menuID44").setAttribute("aria-haspopup", "true"); document.getElementById("menuID44").setAttribute("aria-haspopup", "true"); 
+	
+	/* Set "aria-haspopup=false" for main-menu items that don't have drop-down menus */
+	
+				$('#menuItem_'+0).attr('aria-haspopup', 'false');
+			
+				$('#menuItem_'+5).attr('aria-haspopup', 'false');
+			
+				$('#menuItem_'+6).attr('aria-haspopup', 'false');
+			
+				$('#menuItem_'+7).attr('aria-haspopup', 'false');
+			
+	  
+</script>
+
+
+
+
+
+<script src="https://www.bcc.cuny.edu/SYSTEM_SERVICE/Web_Accessible_Menu/2/js/menubarLinks.js" type="text/javascript"></script>
+<script src="https://www.bcc.cuny.edu/SYSTEM_SERVICE/Web_Accessible_Menu/2/js/menubaritemLinks.js" type="text/javascript"></script>
+<script src="https://www.bcc.cuny.edu/SYSTEM_SERVICE/Web_Accessible_Menu/2/js/popupmenuitemLinks.js" type="text/javascript"></script>
+<script src="https://www.bcc.cuny.edu/SYSTEM_SERVICE/Web_Accessible_Menu/2/js/popupmenuLinks.js" type="text/javascript"></script>
+<script type="text/javascript">
+	/*
+	var menubar = new Menubar(document.getElementById('menubar2'));
+	menubar.init();
+	*/
+	var menubar = new Menubar(document.getElementById('menubarBCC'));
+	menubar.init();
+</script>
+
+
+
+
+	<div id="body_wrapper">
+		 <div id="body_content_wrapper" class="site-width column-mask">
+			  <div id="columns" class="column-wrapper">
+				 <!-- Billboard -->
+				 <div id="body_content_col2" class="body_content_col_2 column-right BODY-HomePage">
+						<style type="text/css">
+						.column-right{
+							margin-right:0px !important;
+							margin-left:0px !important;
+							left:100%;
+						}
+						</style>
+						<div id="bannerRotatorHolder2">
+						
+							 
+
+
+
+    <div class="inner">
+
+      <figure class="sample ">
+  <div class="box-content">
+<div id="c" class="active carousel with-slidenav">
+    <ul>
+       
+       
+	
+			
+			
+			
+				<!--carousel item-->
+                <li class="next slide" style="background-image: url('/gif-new/billboards/Womens-History-Month-2018.jpg'); cursor:pointer;" aria-hidden="true" onClick="location.href='/Defining-What-Matters/?m=251'" onkeypress="location.href='/Defining-What-Matters/?m=251'" aria-label="Women's History Month 2018">
+                    <h4 aria-hidden="true">Women's History Month 2018</h4>
+                    <p style="display:none;">
+                        Women's History Month 2018.
+                        <a href="">BCC</a>
+                    </p>
+                </li>
+            
+            
+            
+		
+			
+			
+			
+				<!--carousel item-->
+                <li class="next slide" style="background-image: url('/gif-new/billboards/Recruitment_2018.jpg'); cursor:pointer;" aria-hidden="true" onClick="location.href='http://www.bcc.cuny.edu/Admissions/?p=ad-Direct-Admissions'" onkeypress="location.href='http://www.bcc.cuny.edu/Admissions/?p=ad-Direct-Admissions'" aria-label="On-the-Spot Admission">
+                    <h4 aria-hidden="true">On-the-Spot Admission</h4>
+                    <p style="display:none;">
+                        On-the-Spot Admission.
+                        <a href="">BCC</a>
+                    </p>
+                </li>
+            
+            
+            
+		
+			
+			
+			
+				<!--carousel item-->
+                <li class="next slide" style="background-image: url('/gif-new/billboards/New-York-Times-billboard-Feb2018.jpg'); cursor:pointer;" aria-hidden="true" onClick="location.href='https://www.nytimes.com/2018/02/18/nyregion/african-immigrants-bronx-community-college.html'" onkeypress="location.href='https://www.nytimes.com/2018/02/18/nyregion/african-immigrants-bronx-community-college.html'" aria-label="African Immigrants Find an Open Door at a Bronx College">
+                    <h4 aria-hidden="true">African Immigrants Find an Open Door at a Bronx College</h4>
+                    <p style="display:none;">
+                        African Immigrants Find an Open Door at a Bronx College.
+                        <a href="">BCC</a>
+                    </p>
+                </li>
+            
+            
+            
+		
+			
+			
+			
+				<!--carousel item-->
+                <li class="next slide" style="background-image: url('/gif-new/billboards/Jack-Kent-Cooke-2018.jpg'); cursor:pointer;" aria-hidden="true" onClick="location.href='/Defining-What-Matters/?m=247'" onkeypress="location.href='/Defining-What-Matters/?m=247'" aria-label="2018 Jack Kent Cooke Undergraduate Transfer Scholarship">
+                    <h4 aria-hidden="true">2018 Jack Kent Cooke Undergraduate Transfer Scholarship</h4>
+                    <p style="display:none;">
+                        2018 Jack Kent Cooke Undergraduate Transfer Scholarship.
+                        <a href="">BCC</a>
+                    </p>
+                </li>
+            
+            
+            
+		
+			
+			
+			
+				<!--carousel item-->
+                <li class="next slide" style="background-image: url('/gif-new/billboards/Trailblazers-Richard-Carmona-2018.jpg'); cursor:pointer;" aria-hidden="true" onClick="location.href='/Defining-What-Matters/?m=242'" onkeypress="location.href='/Defining-What-Matters/?m=242'" aria-label="Trailblazers Series">
+                    <h4 aria-hidden="true">Trailblazers Series</h4>
+                    <p style="display:none;">
+                        Trailblazers Series.
+                        <a href="">BCC</a>
+                    </p>
+                </li>
+            
+            
+            
+		
+			
+			
+			
+				<!--carousel item-->
+                <li class="next slide" style="background-image: url('/gif-new/billboards/Tax-Season-2018.jpg'); cursor:pointer;" aria-hidden="true" onClick="location.href='/Defining-What-Matters/?m=241'" onkeypress="location.href='/Defining-What-Matters/?m=241'" aria-label="Tax Season">
+                    <h4 aria-hidden="true">Tax Season</h4>
+                    <p style="display:none;">
+                        Tax Season.
+                        <a href="">BCC</a>
+                    </p>
+                </li>
+            
+            
+            
+		
+			
+			
+			
+				<!--carousel item-->
+                <li class="next slide" style="background-image: url('/gif-new/billboards/run-the-bronx2018.jpg'); cursor:pointer;" aria-hidden="true" onClick="location.href='http://www.bcc.cuny.edu/Run-the-Bronx/'" onkeypress="location.href='http://www.bcc.cuny.edu/Run-the-Bronx/'" aria-label="Run the Bronx ">
+                    <h4 aria-hidden="true">Run the Bronx </h4>
+                    <p style="display:none;">
+                        Run the Bronx .
+                        <a href="">BCC</a>
+                    </p>
+                </li>
+            
+            
+            
+		
+       
+       
+       
+       
+       
+       
+        
+    </ul>
+    
+    
+    
+    
+    <div aria-live="polite" aria-atomic="true" class="liveregion visuallyhidden">
+    </div>
+</div>
+
+
+
+
+
+
+
+
+        </div>
+    </figure>
+</div>
+
+
+
+
+
+
+<link href="/SYSTEM_SERVICE/Web_Accessible_Carousel/w3c_carousel.css" type="text/css" rel="stylesheet" />
+
+<script src="/SYSTEM_SERVICE/Web_Accessible_Carousel/w3c_carousel.js" type="text/javascript"></script>
+
+
+
+
+
+<style type="text/css">
+.visuallyhidden{
+	border:0;
+	clip:rect(0 0 0 0);
+	height:1px;
+	margin:-1px;
+	overflow:hidden;
+	padding:0;
+	position:absolute;
+	width:1px
+	}
+.visuallyhidden.hasfocus,
+footer h2.hasfocus,
+.visuallyhidden.focusable:active,
+footer h2.focusable:active,
+.visuallyhidden.focusable:focus,
+footer h2.focusable:focus{
+	clip:auto;
+	height:auto;
+	margin:0;
+	overflow:visible;
+	position:static;
+	width:auto
+	}
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						</div>
+				 </div>
+
+				 <!-- Left Navigation -->
+				 <div id="body_content_col1" class="body_content_col_1 column-left LEFTNAV-HomePage">
+					  <div id="top-nav2-content">
+							
+<!-- CSS -->
+<style type="text/css"> 
+<!--
+
+.parentExpandedImage {
+	list-style-image: url(/gif-new/images-HomePage/expandedButtonTransperant.gif);
+}
+.parentCollapsedImage {
+	list-style-image: url(/gif-new/images-HomePage/collapsedButtonTransperant.gif);
+}
+.collapsed {
+	display: none;
+}
+._______expanded {
+	list-style-image: none;
+	list-style-type: circle;
+	display: block;
+}
+
+.div-main1{
+	margin-top:10px;
+	margin-left:10px;
+}
+
+.div-a0{
+	margin-top:3px;
+	margin-left:10px;
+	height:6px;
+	bbackground-color:#555500;
+}
+
+.div-a1{
+	float:left;
+	width:15px;
+	margin-left:10px;
+	margin-top:2px;
+	bbackground-color:#AAAA00;
+}
+
+.div-a2{
+	float:left;
+	width:158px;
+	margin-top:0px;
+	margin-left:0px; 
+	margin-right:5px;
+	overflow:hidden;
+	bbackground-color:#FFFFCC;
+}
+
+.div-a3{
+	clear:both;
+	height:2px;
+}
+
+.expanded{
+	margin-left:0px;
+	display:block;
+}
+
+.div-1{
+	float:left;
+	width:15px;
+	margin-top:2px;
+	bbackground-color:#00CCFF;
+}
+
+.div-2{
+	flost:left;
+	width:140px;
+	margin-left:15px;
+	margin-top:0px;
+	bbackground-color:#FFCC99;
+	overflow:hidden;
+}
+
+.div-3{
+	clear:both;
+	height:5px;
+}
+
+-->
+</style>
+
+<script type="text/javascript"> 
+ 
+	//parentItems = 2; // Set this variable to the number of parent items in the outline
+ 
+	// Preload Images
+	//var plusButton = new Image();
+	//var minusButton = new Image();
+	//plusButton.src = "collapsedButton2.gif";
+	//minusButton.src = "expandedButton2.gif";
+	
+	function toggleList(nodeNumber) {
+		var parentImg = document.images["parent"+nodeNumber+"Img"];
+		if (document.getElementById) {
+			childNode = document.getElementById("child"+nodeNumber);
+		} else {
+			// any other browsers - just do nothing
+			// In these browsers the outline will be expanded by default
+			return;
+		}
+ 
+		if (childNode.className == "collapsed") {
+			parentImg.src = "/gif-new/images-HomePage/collapsedButtonTransperant.gif";
+			childNode.className = "expanded";
+		} else {
+			parentImg.src = "/gif-new/images-HomePage/expandedButtonTransperant.gif";
+			childNode.className = "collapsed";
+		}
+	}
+ 
+	function toggleAll() {
+		for (i=1; i<=parentItems; i++) {
+			toggleList(i);
+		}
+		
+	}
+	
+</script>
+
+
+
+	<div id="LEFTNAV-HomePage-Wrapper" role="menu">
+		
+				<div class="left-menu-item" role="menuitem" onfocus="TurnOffCarouselFocus()">
+					
+					
+					<a href="/academic-support-services/" onfocus="TurnOffCarouselFocus()" class="top-nav2-item top-nav2-font " tabindex="0">Academic/Support Services</a>
+				</div>
+			
+				<div class="left-menu-item" role="menuitem" onfocus="TurnOffCarouselFocus()">
+					
+					
+					<a href="/President/" onfocus="TurnOffCarouselFocus()" class="top-nav2-item top-nav2-font " tabindex="0">President's Office</a>
+				</div>
+			
+				<div class="left-menu-item" role="menuitem" onfocus="TurnOffCarouselFocus()">
+					
+					
+					<a href="/About-BCC/" onfocus="TurnOffCarouselFocus()" class="top-nav2-item top-nav2-font " tabindex="0">About BCC</a>
+				</div>
+			
+				<div class="left-menu-item" role="menuitem" onfocus="TurnOffCarouselFocus()">
+					
+					
+					<a href="http://asap.bcc.cuny.edu/" onfocus="TurnOffCarouselFocus()" class="top-nav2-item top-nav2-font " tabindex="0">ASAP</a>
+				</div>
+			
+				<div class="left-menu-item" role="menuitem" onfocus="TurnOffCarouselFocus()">
+					
+					
+					<a href="/Future-Students/" onfocus="TurnOffCarouselFocus()" class="top-nav2-item top-nav2-font " tabindex="0">Future Students</a>
+				</div>
+			
+				<div class="left-menu-item" role="menuitem" onfocus="TurnOffCarouselFocus()">
+					
+					
+					<a href="/Current-Students/" onfocus="TurnOffCarouselFocus()" class="top-nav2-item top-nav2-font " tabindex="0">Current Students</a>
+				</div>
+			
+				<div class="left-menu-item" role="menuitem" onfocus="TurnOffCarouselFocus()">
+					
+					
+					<a href="/Faculty-Staff/" onfocus="TurnOffCarouselFocus()" class="top-nav2-item top-nav2-font " tabindex="0">Faculty and Staff</a>
+				</div>
+			
+				<div class="left-menu-item" role="menuitem" onfocus="TurnOffCarouselFocus()">
+					
+					
+					<a href="/Alumni-Friends/" onfocus="TurnOffCarouselFocus()" class="top-nav2-item top-nav2-font " tabindex="0">Alumni and Friends</a>
+				</div>
+			
+				<div class="left-menu-item" role="menuitem" onfocus="TurnOffCarouselFocus()">
+					
+					
+					<a href="/workforce-community-programs/" onfocus="TurnOffCarouselFocus()" class="top-nav2-item top-nav2-font " tabindex="0">Workforce/ Community Programs</a>
+				</div>
+			
+				<div class="left-menu-item" role="menuitem" onfocus="TurnOffCarouselFocus()">
+					
+					
+					<a href="/Centers-Institutes/" onfocus="TurnOffCarouselFocus()" class="top-nav2-item top-nav2-font " tabindex="0">Centers and Institutes</a>
+				</div>
+			
+				<div class="left-menu-item" role="menuitem" onfocus="TurnOffCarouselFocus()">
+					
+					
+					<a href="/Featured-News/" onfocus="TurnOffCarouselFocus()" class="top-nav2-item top-nav2-font " tabindex="0">News</a>
+				</div>
+			
+	</div>
+
+
+<script>
+$(document).ready(function(e) {
+    
+	function TurnOffCarouselFocus() {
+				FocusButton = 0;
+				console.log('=> '+FocusButton);
+			}
+			
+	function TurnOnCarouselFocus() {
+				FocusButton = 1;	
+				console.log('=> '+FocusButton);
+			}
+	
+});
+
+</script> 
+					  </div>
+				 </div>
+
+			 </div>
+		</div>
+	</div>
+	<!-- Body 2 -->
+	
+<div id="body2_wrapper">
+	<div id="body2_content_wrapper" class="site-width column-mask">
+		<div id="body2_columns" class="body2-column-wrapper BODY2-HomePage">
+			<div class="body2-column-right">      
+				 <!link href="http://www.bcc.cuny.edu/wBCC1.css" rel="stylesheet" type="text/css" />
+
+
+<!--  Show News (WITH) Images -->
+<div id="news_WITH_images">
+	
+		<div class="news_items_WITH_images news-item1" tabindex="0" onclick="location.href='http://www.bcc.cuny.edu/broadcasts/2018/Barnes_and_Noble_Closing_Announcement.pdf'" onkeypress="location.href='http://www.bcc.cuny.edu/broadcasts/2018/Barnes_and_Noble_Closing_Announcement.pdf'" style="cursor:pointer;">
+			<div class="news_items_WITH_images_wrap">
+				
+				
+				<img src="/gif-new/featured-news/Important-Info.jpg" aria-hidden="true" alt="ON MARCH 17, WE CLOSE THE BOOK ON THE BOOKSTORE" style="background-color:#eee;" />
+				
+				
+				<div class="news-subject"><!a href="http://www.bcc.cuny.edu/broadcasts/2018/Barnes_and_Noble_Closing_Announcement.pdf" aria-label="News item: ON MARCH 17, WE CLOSE THE BOOK ON THE BOOKSTORE.">ON MARCH 17, WE CLOSE THE BOOK ON THE BOOKSTORE<!/a></div>
+				<div class="news-preview">With BCC switching to an online textbook service, the Barnes and Noble outlet in the student center has reached its last chapter.</div>
+			</div>
+		</div>
+		
+		<div class="news_items_WITH_images news-item2" tabindex="0" onclick="location.href='/Featured-News/?m=245'" onkeypress="location.href='/Featured-News/?m=245'" style="cursor:pointer;">
+			<div class="news_items_WITH_images_wrap">
+				
+				
+				<img src="/gif-new/featured-news/35-65-mini-2018.png" aria-hidden="true" alt="AND THE WINNER IS…" style="background-color:#eee;" />
+				
+				
+				<div class="news-subject"><!a href="/Featured-News/?m=245" aria-label="News item: AND THE WINNER IS….">AND THE WINNER IS…<!/a></div>
+				<div class="news-preview">On Thursday, February 22, we will unveil the winning logo for BCC's "35x65" challenge to raise the College's graduation rate to 35% by our 65th birthday in 2022.</div>
+			</div>
+		</div>
+		
+		<div class="news_items_WITH_images news-item3" tabindex="0" onclick="location.href='/Featured-News/?m=243'" onkeypress="location.href='/Featured-News/?m=243'" style="cursor:pointer;">
+			<div class="news_items_WITH_images_wrap">
+				
+				
+				<img src="/gif-new/featured-news/Highlights.jpg" aria-hidden="true" alt="THE SOUNDS OF SPRING" style="background-color:#eee;" />
+				
+				
+				<div class="news-subject"><!a href="/Featured-News/?m=243" aria-label="News item: THE SOUNDS OF SPRING.">THE SOUNDS OF SPRING<!/a></div>
+				<div class="news-preview">From jazz to classical to world music, there’s something for every musical taste in the BCC Concert Series.</div>
+			</div>
+		</div>
+		
+	
+	<!-- show an empty News (WITH) Images 'placeholder' -->
+	
+</div>
+
+<!-- Divider -->
+<div class="divider_container ClearFix2 hide-on-mobile">
+	<div class="divider_line"> </div>
+</div>
+
+
+
+<!-- Show News (WITHOUT) Images -->
+<div id="news_WITH-NO_images">
+	
+		<div class="news_items_WITH_NO_images news-item1" tabindex="0" onclick="location.href='/Featured-News/?m=244'" onkeypress="location.href='/Featured-News/?m=244'" style="cursor:pointer;">
+			<div class="news_items_WITH_NO_images_wrap">
+				
+				<div class="news-subject">Life Lessons from a Former BCC Student Activist</div>
+				<div class="news-preview">This semester's Freshman Convocation speaker Guillermo Ali Perez will discuss his lifetime of service and activism and how incoming students can be more than just students &ndash; as he was during his undergraduate years at BCC.</div>
+			</div>
+		</div>
+		
+		<div class="news_items_WITH_NO_images news-item2" tabindex="0" onclick="location.href='http://digital.bcc.cuny.edu/BCCAPP/?utm_source=website&utm_medium=banner&utm_campaign=blog'" onkeypress="location.href='http://digital.bcc.cuny.edu/BCCAPP/?utm_source=website&utm_medium=banner&utm_campaign=blog'" style="cursor:pointer;">
+			<div class="news_items_WITH_NO_images_wrap">
+				
+				<div class="news-subject">Our New Website – Coming Soon</div>
+				<div class="news-preview">We have created a blog to communicate with you about our website redesign project. We hope to explain our process, what we have done so far, next steps and why. We also look forward to hearing your feedback.</div>
+			</div>
+		</div>
+		
+		<div class="news_items_WITH_NO_images news-item3" tabindex="0" onclick="location.href='/Featured-News/?m=227'" onkeypress="location.href='/Featured-News/?m=227'" style="cursor:pointer;">
+			<div class="news_items_WITH_NO_images_wrap">
+				
+				<div class="news-subject">BCC’S Geospatial Center Maps Out Its Future with a Three-year Grant  </div>
+				<div class="news-preview">The Advanced Technological Education program of the National Science Foundation awards a $900,000 grant to the Geospatial Center for the proposal “Pathways to Geospatial Technology and Careers.”</div>
+			</div>
+		</div>
+		
+
+	<!-- show an empty News (WITHOUT) Images 'placeholder' -->
+	
+</div>
+
+			</div>
+			<div class="body2-column-left LEFTNAV2-HomePage">
+				<!-- College Calendar Header -->
+				<div id="#calendar-title" class="calendar-title-font HomePage_Events_header"><a href="https://www.bcc.cuny.edu/College-Calendar">COLLEGE CALENDAR</a></div>
+				
+				<div class="JQScrollPane-holder">
+					<div id="events-scroll" class="HomePage_Events_block">
+						<div class="all-events">
+							
+
+
+
+	
+	
+	
+   
+
+<!-- End Showing Calendar Options Bar -->
+
+	
+   
+   
+   
+
+
+
+	
+   
+      
+
+
+      
+
+
+
+<div id="calendar-items">
+	<!-- Link Date set to today's Date -->
+					
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/10/2018&go_to_Day=03/10/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Feb 18 &ndash; Apr 16
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">Course withdrawal (W Grade)</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to today's Date -->
+					
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/10/2018&go_to_Day=03/10/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 9 &ndash; Mar 11
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">Collegiate Summit Somos El Futuro Conference</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+						<div class="calendar-location">Empire State Plaza, Albany, NY</div>
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/10/2018&go_to_Day=03/10/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 10
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>4:00 PM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">BCC Baseball vs Thomas Nelson CC</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+						<div class="calendar-location">Hampton, VA</div>
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/10/2018&go_to_Day=03/10/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 10
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>10:00 AM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">Second Saturdays Student Success</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+						<div class="calendar-location">Opened Today:</div>
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/10/2018&go_to_Day=03/10/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 10
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">Admissions Office LO 224, Career Development LO 328, Financial Aid CO 504, Registrar's Office CO 513, Student Life RBSC 309, Technology Service Center RBSC 308 Transfer Services Sage Hall 102</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+						<div class="calendar-location">Transfer Services Available from 2-6pm</div>
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/10/2018&go_to_Day=03/10/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 10
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>1:00 PM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">BCC Baseball vs Thomas Nelson CC</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+						<div class="calendar-location">Hampton, VA</div>
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/11/2018&go_to_Day=03/11/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 11
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>11:00 AM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">BCC Baseball vs Thomas Nelson CC</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+						<div class="calendar-location">Hampton, VA</div>
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+					
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/12/2018&go_to_Day=03/12/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 12 &ndash; Mar 19
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">Mid-Term Examination period</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/13/2018&go_to_Day=03/13/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 13
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>12:15 PM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">Committee on Community Events</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+						<div class="calendar-location">Language Hall PCR</div>
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/13/2018&go_to_Day=03/13/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 13
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>12:00 PM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">English Department Faculty Lecture Series: Lilliam Rivera, author of The Education of Margot Sanchez (a Young Adult novel) In celebration of Women’s History Month</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/13/2018&go_to_Day=03/13/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 13
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>2:00 PM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">Curriculum Committee Meeting</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+						<div class="calendar-location">Meister Hall 228</div>
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/14/2018&go_to_Day=03/14/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 14
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>2:00 PM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">Committee on Academic Standing</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+						<div class="calendar-location">South Hall Conference Room</div>
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/15/2018&go_to_Day=03/15/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 15
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>3:00 PM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">BCC Baseball vs ASA College</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+						<div class="calendar-location">Ohio Field</div>
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/15/2018&go_to_Day=03/15/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 15
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">Inter-Organizational Council (IOC) Recertification Deadline</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/15/2018&go_to_Day=03/15/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 15
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>12:00 PM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">Health Services – HIV and STI Testing</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+						<div class="calendar-location">Loew Hall 101</div>
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/15/2018&go_to_Day=03/15/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 15
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>12:00 PM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">Film Society – Selected Screening</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/15/2018&go_to_Day=03/15/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 15
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>11:00 AM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">BCC's Spring 2018 Transfer Fair</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+						<div class="calendar-location">Colston Hall Lower Level</div>
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/18/2018&go_to_Day=03/18/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 18
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>12:00 PM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">BCC Baseball vs Middlesex County College</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+						<div class="calendar-location">Edison, NJ</div>
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/18/2018&go_to_Day=03/18/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 18
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>2:30 PM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">BCC Baseball vs Middlessex County College</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+						<div class="calendar-location">Edison, NJ</div>
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+					
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/19/2018&go_to_Day=03/19/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 19 &ndash; Mar 23
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>11:00 AM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">Graduation Fair</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+						<div class="calendar-location">Roscoe C. Brown Student Center 311A & 311B</div>
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/20/2018&go_to_Day=03/20/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 20
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>12:00 PM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">SGA Town Hall Meeting</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/20/2018&go_to_Day=03/20/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 20
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>4:00 PM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">BCC Baseball vs Nassau CC</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+						<div class="calendar-location">Garden City, NY</div>
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/20/2018&go_to_Day=03/20/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 20
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>2:00 PM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">Curriculum Committee Meeting (Tentative)</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+						<div class="calendar-location">Meister Hall 228</div>
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/22/2018&go_to_Day=03/22/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 22
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>12:00 PM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">Lunch with Leaders with Audrey Rose-Glenn and Grisel Acosta: The Godmother of Nuyorican Poetry, Sandra Maria Esteves In celebration of Women’s History Month</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/22/2018&go_to_Day=03/22/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 22
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>12:00 PM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">Health Services – HIV and STI Testing</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+						<div class="calendar-location">Loew Hall 101</div>
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/22/2018&go_to_Day=03/22/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 22
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>12:00 PM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">Senate Meeting</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+						<div class="calendar-location">Nichols Hall 104</div>
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/23/2018&go_to_Day=03/23/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 23
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>4:00 PM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">BCC Baseball vs Nassau CC</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+						<div class="calendar-location">Garden City, NY</div>
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/24/2018&go_to_Day=03/24/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 24
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>12:00 PM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">BCC Baseball vs Nassau CC</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+						<div class="calendar-location">Ohio Field</div>
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/24/2018&go_to_Day=03/24/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 24
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+							<span class="calendar-date-spacer">&nbsp;&nbsp;|&nbsp;&nbsp;</span>2:30 PM 
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">BCC Baseball vs Nassau CC</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+						<div class="calendar-location">Ohio Field</div>
+					
+
+         </div>
+			</a>
+
+
+		<!-- Link Date set to event Start Date -->
+			
+
+			<a class="calendar-item-link" href="https://www.bcc.cuny.edu/college-calendar/?currentDate=03/26/2018&go_to_Day=03/26/2018">
+			
+   
+         <div class="calendar-item">
+         
+					<div class="calendar-date">
+
+	               <!-- Date -->
+						Mar 26
+
+						<!-- Time -->
+						<span class="calendar-schedule">
+						
+						</span>
+					</div>
+
+
+
+					<!-- Subject -->
+               <div class="calendar-subject">
+							
+								<span class="calendar-subject-font">Continuing Students: Registration for Summer & Fall 2018</span>
+							
+						<!/a>
+               </div>
+
+               <!-- Location -->
+					
+
+         </div>
+			</a>
+
+
+	
+
+</div>
+
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Footer -->
+
+
+
+
+<div id="footer1-wrapper">
+	<!-- Begin Footer -->
+	<div id="footer1" class="site-width footer_font_1">
+		<!-- gray separator -->
+		<div id="footer_separator"></div>
+  		<div id="future-students" class="footer1_container" role="heading" aria-label="future students">
+    		<span class="footer_font_2 footer1_case_header">FUTURE STUDENTS</span> 
+    		<div class="footer1_case"><ul>
+  <li><a href="http://www.bcc.cuny.edu/Academic-Departments">Academic Departments</a></li>     
+  <li><a href="http://www.bcc.cuny.edu/Admissions">Admission and Recruitment</a></li>     
+  <li><a href="http://www.bcc.cuny.edu/r/?p=apply-online">Apply Online</a></li>     
+       
+  <li><a href="http://www.bcc.cuny.edu/College-Catalog">College Catalog</a></li>     
+   <li><a href="http://www.bcc.cuny.edu/workforce-development/">Workforce and Economic Development</a></li>
+  <li><a href="http://www.bcc.cuny.edu/Degree-Programs">Degree Programs</a></li>     
+  <li><a href="http://www.bcc.cuny.edu/Admissions/?p=Freshman">Freshman Students</a></li>     
+  <li><a href="http://www.bcc.cuny.edu/InternationalStudents">International Students</a></li>     
+  <li><a href="http://www.bcc.cuny.edu/Admissions/?p=Transfer">Transfer Students</a></li> 
+</ul>
+</div>
+		</div>
+  		<div id="current-students" class="footer1_container" role="heading" aria-label="current students">
+    		<span class="footer_font_2 footer1_case_header">CURRENT STUDENTS</span> 
+    		<div class="footer1_case"><ul>
+<li><a href="http://www.bcc.cuny.edu/Academic-Computing/?p=ac-Computer-Labs">Computer Labs</a></li>
+<li><a href="http://www.bcc.cuny.edu/CUNYfirst/?p=MyInfo">CUNYfirst MyInfo</a></li>
+<li><a href="https://www.bcc.cuny.edu/Early-Childhood-Center/">Early Childhood Center</a></li>
+<li><a href="http://www.bcc.cuny.edu/Financial-Aid">Financial Aid</a></li>
+<li><a href="http://www.bcc.cuny.edu/Health-Services">Health Services</a></li>     
+<li><a href="https://www.bcc.cuny.edu/InformationTechnology/workshops/">IT Workshops</a></li>     
+<li><a href="http://www.bcc.cuny.edu/OSSES">OSSES</a></li>
+<li><a href="http://www.bcc.cuny.edu/Registrar">Registrar's Office</a></li>     
+<li><a href="http://www.bcc.cuny.edu/scholarships">Scholarship Center</a></li>     
+<li><a href="http://www.bcc.cuny.edu/Student-Life">Student Life</a></li>
+<li><a href="http://www.bcc.cuny.edu/InternationalStudents/?page=StudyAbroad">Study Abroad</a></li> 
+</ul>
+</div>
+		</div>
+  		<div id="faculty-staff" class="footer1_container" role="heading" aria-label="faculty and staff">
+    		<span class="footer_font_2 footer1_case_header">FACULTY/STAFF</span> 
+    		<div class="footer1_case"><ul>
+   <li><a href="http://www.bcc.cuny.edu/CSE/">Center for Sustainable Energy</a></li>     
+   <li><a href="http://www.bcc.cuny.edu/CTLT/">Center for Teaching, Learning and Technology</a></li>     
+   <li><a href="http://www.bcc.cuny.edu/AcademicAffairs/FacultyResourcesGuides/?page=Faculty_handbook">Faculty Handbook</a></li>
+   <li><a href="http://www.bcc.cuny.edu/geospatial/">Geospatial Center of the CREST Institute</a></li>     
+  <li><a href="http://www.bcc.cuny.edu/HumanResources/">Human Resources</a></li>     
+   <li><a target="" href="http://www.bcc.cuny.edu/Information-Technology/">Information Technology</a></li>     
+</ul>
+</div>
+		</div>	
+  		<div id="alumni" class="footer1_container" role="heading" aria-label="alumni and friends">
+    		<span class="footer_font_2 footer1_case_header">ALUMNI & FRIENDS</span> 
+    		<div class="footer1_case"><ul>
+<li><a target="" href="http://www.bcc.cuny.edu/Alumni-Friends">Alumni Association</a></li>     
+<li><a href="http://www.bcc.cuny.edu/Alumni-Friends/?p=Career-Development-Office">Career Development</a></li>
+<li><a href="http://www.bcc.cuny.edu/Give-to-BCC">Giving to BCC</a></li>
+<li><a href="http://www.bcc.cuny.edu/Transcripts/" target="">Request a Transcript</a></li> 
+</ul>
+</div>
+		</div>
+  		<div id="footer1_quicklinks_case" class="footer1_container" role="heading" aria-label="quick links" tabindex="0">
+   		  <div id="footer1_quicklinks">
+
+
+
+
+
+		
+		<div id="CUNY-Alert">
+      	<div id="header"><img src="/newImages/small/CUNY A!ert-3.gif" alt="CUNY Alert" title="CUNY Alert" vspace="0" style="margin:0px 3px 0px 0px; padding:0px;" /></div>
+        <div id="body">Receive text or voice alerts of emergencies and weather-related closings on your campus via cell or home phone and email.
+         </div>
+      </div>
+
+<table cellpadding="0" cellspacing="0" border="0" class="footer_font_1" role="presentation">
+   
+   <tr>
+   	<td valign="top"><img src="https://www.bcc.cuny.edu/gif-new/icons/facebook.jpg" alt="Facebook" width="21" title="Facebook" /></td>
+   	<td valign="top"><a href="http://www.facebook.com/bronxcc">Facebook</a></td>
+  	</tr>
+   <tr>
+   	<td valign="top"><img src="https://www.bcc.cuny.edu/gif-new/icons/twitter.jpg" alt="Twitter" width="20" title="Twitter" /></td>
+   	<td valign="top"><a href="http://twitter.com/BCCcuny">Twitter</a></td>
+  	</tr>
+   
+   
+   <tr>
+   	<td valign="top"><img src="https://www.bcc.cuny.edu/gif-new/icons/mountain_on_black.jpg" alt="Communicator Newspaper" title="Communicator Newspaper" /></td>
+   	<td valign="top"><a href="http://www.bcc.cuny.edu/communicator">COMMUNICATOR Newspaper</a></td>
+  	</tr>
+   <tr>
+     <td valign="top"><img src="https://www.bcc.cuny.edu/gif-new/icons/OnCampusNewsletter_on_black.png" alt="On Campus Newsletter" title="On Campus Newsletter" /></td>
+     <td valign="top"><a href="http://www.bcc.cuny.edu/On-Campus-Newsletter/">On Campus Newsletter</a></td>
+   </tr>
+   <tr>
+   	<td valign="top"><img src="https://www.bcc.cuny.edu/gif-new/icons/update_on_black.jpg" alt="UPDATE Newsletter" title="UPDATE Newsletter" /></td>
+   	<td valign="top"><a href="http://www.bcc.cuny.edu/Communications-Marketing/?p=UPDATE-Newsletters" aria-label="update newsletter">U.P.D.A.T.E Newsletter</a></td>
+  	</tr>
+   
+   <tr>
+   	<td valign="top"><img src="https://www.bcc.cuny.edu/gif-new/icons/CUNY-Alert.jpg" alt="CUNY Alert" title="CUNY Alert" /></td>
+   	<td valign="top"><a href="http://www.cuny.edu/news/alert.html" target="_blank" 
+           onmouseover="document.getElementById('CUNY-Alert').style.display = 'block';" 
+           onmouseout="document.getElementById('CUNY-Alert').style.display = 'none';">CUNY Alert!</a></td>
+  	</tr>
+   <tr>
+   	<td valign="top"><img src="https://www.bcc.cuny.edu/gif-new/icons/emergency_on_black.jpg" alt="Emergency Icon" title="Emergency Icon" /></td>
+   	<td valign="top"><a href="http://www.bcc.cuny.edu/Emergency-Closing">Emergency Closing</a></td>
+  	</tr>
+    
+	<tr>
+   	<td valign="top"><img src="https://www.bcc.cuny.edu/gif-new/icons/browse_aloud_on_black.jpg" alt="Browse Aloud" title="Browse Aloud" /></td>
+   	<td id="browsealoudContainer" valign="top"><a id="__ba_panel"></a></td>
+	
+  	</tr>
+
+</table>
+
+
+</div>
+		</div>
+	</div>
+	<div id="finish">&nbsp;</div>
+</div>
+
+
+
+
+<!-- Address -->
+<br clear="all">
+<div id="address_wrapper">
+	 <div id="body_content_wrapper" class="site-width">
+	<!link href="http://www.bcc.cuny.edu/wBCC1.css" rel="stylesheet" type="text/css" />
+<!-- CUNY logo -->
+
+<div id="cuny-logo"><a href="http://www.cuny.edu"><img src="https://www.bcc.cuny.edu/gif-new/images-HomePage/cuny_logo_blue_new.png" alt="The City University of New York. The greatest urban university in the world." width="133" height="57" /></a></div>
+
+<!-- College Address -->
+<div id="address">
+	<strong>&copy; 2018 Bronx Community College</strong><br />
+	2155 University Avenue<div style="display:inline-block; *display: inline;" class="hide-on-mobile">,&nbsp;</div><br class="hide-on-desktop" />Bronx, New York 10453<br />
+	Main: 718.289.5100<div style="display:inline-block;  *display: inline;" class="hide-on-mobile">&nbsp;&#8226;&nbsp;</div><br class="hide-on-desktop" />Admission's Office: 718.289.5895<br />
+	
+	<a href="http://www.bcc.cuny.edu/Telephone-Directory/" title="Telephone Directory">Telephone Directory</a>
+	|
+	<a href="http://www.bcc.cuny.edu/directions" title="Directions">Directions</a>
+	|
+	<a href="http://www.bcc.cuny.edu/website-Information/?p=web-Accessibility" title="Accessibility">Accessibility</a>
+	|
+	<a href="http://www.bcc.cuny.edu/website-Information/?p=Privacy-Policy" title="Privacy Policy">Privacy Policy</a>
+	
+	
+	<div>
+		<a href="http://www.bcc.cuny.edu/Affirmative-Action/?p=CUNY-BCC-Policies" title="Notice of Non-Discrimination">Notice of Non-Discrimination</a> |
+        <a href="http://www.cuny.edu/about/administration/offices/communications-marketing/foil.html" title="Freedom of Information Law (FOIL)">Freedom of Information Law (FOIL)</a>
+	
+    |
+	<a id="__ba_panel" href="https://www.bcc.cuny.edu/browsealoud" alt="Browse Aloud"><img src="/gif-new/icons/browse_aloud_on_black.jpg" width="0" height="0" alt="Browse aloud" role="presentation"></a>
+	</div>
+</div>
+<!-- Google Translate -->
+<br clear="all" class="hide-on-desktop" />
+<br clear="all" class="hide-on-desktop" />
+<div id="BCC-google-translete" class="max-width-200 padding-left">
+	<div id="google_translate_element"></div>
+	
+	<script type="text/javascript">
+	
+/*var selAltTagsFix = function() {
+    $('#google_translate_element .goog-te-combo').attr("alt", "Select Language");
+  };
+  window.__gcse = {
+    callback: selAltTagsFix
+  };*/
+	
+	function googleTranslateElementInit() {
+	  new google.translate.TranslateElement({pageLanguage: 'hy', autoDisplay: false, gaTrack: true, gaId: 'UA-20752866-1'}, 'google_translate_element');
+	}
+	</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+	<!--Disclaimer-->
+	<p style="display:block; margin-left:-1px;"><a href="/website-Information/?p=Google-Translate-Disclaimer" title="Google Translation Disclaimer">Google Translation Disclaimer</a></p>
+</div>
+
+	</div>
+</div>
+
+
+
+
+
+<div id="__ba_panel"></div>
+<script type="text/javascript">var _baTheme=0, _baMode='Make this website talk', _baUseCookies=true, _baHideOnLoad=true;</script>
+<script type="text/javascript" src="//www.browsealoud.com/plus/scripts/ba.js"></script>
+
+<script>
+	<!-- add role='presentation' to google table element where class='' -->
+	$('.gstl_50 gssb_c').attr('role', 'presentation');
+	$('td.gsc-branding-img img:first').attr('alt', 'Powered-by-google');
+	//console.log('done2');
+</script>
+
+
+
+</body>
+</html>
